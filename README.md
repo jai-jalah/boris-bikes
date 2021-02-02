@@ -1,10 +1,10 @@
 # Boris Bikes #
 
-This is a program that emulates a network of docking stations, bikes and infrastructure.
+This is a program that emulates a network of docking stations, bikes and infrastructure, as well as repair staff.
 
 ## Motivation ##
 
-'Boris Bikes' will be a network of docking stations and bikes - that anyone can use.
+Commissioned by Transport For London; 'Boris Bikes' will be a network of docking stations and bikes - that are available for use to anyone and everyone. Their vision: a London where everyone has unlimited access to easy and environmentally friendly transport, and infinite opportunities to explore the beautiful city.
 
 ## Build status ##
 1. Setting Up ✔
@@ -12,11 +12,12 @@ This is a program that emulates a network of docking stations, bikes and infrast
 3. From a Domain Model to a Feature Test ✔
 4. Errors are good ✔
 
-## Tech/framework used ##
-Ruby, Agile
+## Tech/frameworks used ##
+Ruby, Agile, TDD & Rspec
 
 User Stories:
 https://docs.google.com/document/d/1DjxiCQXIzNiw8H9vrOsCk15Oo8_keYl1Ynqh4TDAlsw/edit?usp=sharing
+
 Domain Model:
 https://docs.google.com/presentation/d/1LTIimumH2wZqObxLHyIROP1HINjIxWA-GXPDruvKW5o/edit?usp=sharing
 
