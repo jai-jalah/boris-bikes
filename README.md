@@ -10,17 +10,18 @@ This is a program that emulates a network of docking stations, bikes and infrast
 1. Setting Up ✔
 2. Working with User Stories ✔
 3. From a Domain Model to a Feature Test ✔
-
-## Screenshots ##
-Coming soon.
+4. Errors are good ✔
 
 ## Tech/framework used ##
 Ruby, Agile
 
 User Stories:
-https://docs.google.com/document/d/1eOX5bfoGYsyF_2RAut4zNTt8k0CmF9mdgzkjDcdAB5g/edit
+https://docs.google.com/document/d/1DjxiCQXIzNiw8H9vrOsCk15Oo8_keYl1Ynqh4TDAlsw/edit?usp=sharing
 Domain Model:
-https://docs.google.com/presentation/d/1bHTJhWVgz34Vt47gX1efiHuD0xdZ0BniuGJ2PCqVR60/edit#slide=id.p
+https://docs.google.com/presentation/d/1LTIimumH2wZqObxLHyIROP1HINjIxWA-GXPDruvKW5o/edit?usp=sharing
+
+## Screenshots ##
+Coming soon.
 
 ## Code Example ##
 Coming soon.

@@ -1,5 +1,3 @@
-=begin
-
 Type of error:
     NameError (uninitialized constant DockingStation)
 
@@ -12,7 +10,6 @@ File path of error:
 Line number of error:
     (irb):1:in `<main>'
 
-
 Meaning of Error according to ruby docs:
     Raised when a given name is invalid or undefined.
 
@@ -20,10 +17,9 @@ Way of solving the error:
     We can create the DockingStation class in our active irb session.
     We can then run our original command.
 
-    Alternatively we can also create a docking_station.rb file,
-    create the DockingStation class within that file and then require it in irb.
+    Alternatively, we can also create a docking_station.rb file,
+    create the DockingStation class within that file, and then require it in irb.
     We can then run our original command.
-    (This is the less complete solution as it violates the principle of creating 
-    a spec file with a failing test before the creation of passing code - when doing TDD)
 
-=end
+    This is the less complete solution, as it violates the principle of creating
+    a spec file with a failing test before the creation of passing code (when doing TDD).
