@@ -6,7 +6,7 @@ This is a program that emulates a network of docking stations, bikes and infrast
 
 Commissioned by Transport For London; 'Boris Bikes' will be a network of docking stations and bikes that are available for use to anyone and everyone.
 
-Their vision: a city where everyone has unlimited access to joyful and eco-friendly transport, and infinite opportunities to explore the beautiful maze that is London.
+Their vision: a city where everyone has limitless access to joyful and eco-friendly transport, and infinite opportunities to explore the beautiful maze that is London.
 
 ## Build status ##
 1. Setting Up ✔
