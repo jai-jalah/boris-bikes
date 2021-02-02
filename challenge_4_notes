@@ -8,7 +8,7 @@ File path:
     1: from (irb):1:in `<main>
 
 Line number:
-    (irb):1:in <main>
+    (irb):1:in `<main>'
 
 Error meaning - according to Ruby Docs:
     Raised when a given name is invalid or undefined.
