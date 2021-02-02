@@ -1,19 +1,19 @@
 Type of error:
     NameError (uninitialized constant DockingStation)
 
-File path of error:
+File path:
     4: from /Users/raf/.rvm/rubies/ruby-3.0.0/bin/irb:23:in `<main>'
     3: from /Users/raf/.rvm/rubies/ruby-3.0.0/bin/irb:23:in `load'
     2: from /Users/raf/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/irb-1.3.0/exe/irb:11:in `<top (required)>'
     1: from (irb):1:in `<main>
 
-Line number of error:
+Line number:
     (irb):1:in `<main>'
 
-Meaning of Error according to ruby docs:
+Error meaning - according to Ruby Docs:
     Raised when a given name is invalid or undefined.
 
-Way of solving the error:
+Possible Solutions:
     We can create the DockingStation class in our active irb session.
     We can then run our original command.
 
