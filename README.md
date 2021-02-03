@@ -1,6 +1,6 @@
 # Boris Bikes #
 
-This is a program that emulates a network of docking stations, bikes and infrastructure, as well as users - customers, repair staff, etc.
+This is a program that emulates a network of docking stations, bikes and infrastructure, as well as users - i.e. customers, repair staff, etc.
 
 ## Motivation ##
 
