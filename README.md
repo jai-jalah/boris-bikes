@@ -1,6 +1,6 @@
 # Boris Bikes #
 
-This is a program that emulates a network of docking stations, bikes and infrastructure, as well as repair staff.
+This is a program that emulates a network of docking stations, bikes and infrastructure, as well as users - customers, repair staff, etc.
 
 ## Motivation ##
 
@@ -15,7 +15,7 @@ Their vision: a city where everyone has limitless access to joyful and eco-frien
 4. Errors are good ✔
 
 ## Tech/frameworks used ##
-Ruby, Agile, TDD & Rspec
+Ruby, Agile, TDD & RSpec
 
 User Stories:
 https://docs.google.com/document/d/1DjxiCQXIzNiw8H9vrOsCk15Oo8_keYl1Ynqh4TDAlsw/edit?usp=sharing
