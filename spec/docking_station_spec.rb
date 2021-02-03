@@ -1,6 +1,5 @@
 require 'docking_station'
 
 describe DockingStation do
-  # it "should describe a docking station" do
-  # end
+    it { should respond_to(:release_bike) }
 end
