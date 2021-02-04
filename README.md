@@ -27,8 +27,8 @@ https://docs.google.com/presentation/d/1LTIimumH2wZqObxLHyIROP1HINjIxWA-GXPDruvK
 7. Back to the feature ✔
 8. Back to the unit ✔
 9. Building a bike ✔
-10. Making Docking Stations get Bikes
-11. Using Instance Variables
+10. Making Docking Stations get Bikes ✔
+11. Using Instance Variables ✔
 12. Raising Exceptions
 13. Limiting Capacity
 14. Using Complex Attributes
