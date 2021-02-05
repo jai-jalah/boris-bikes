@@ -29,10 +29,10 @@ https://docs.google.com/presentation/d/1LTIimumH2wZqObxLHyIROP1HINjIxWA-GXPDruvK
 9. Building a bike ✔
 10. Making Docking Stations get Bikes ✔
 11. Using Instance Variables ✔
-12. Raising Exceptions
-13. Limiting Capacity
-14. Using Complex Attributes
-15. The Single Responsibility Principle
+12. Raising Exceptions ✔
+13. Limiting Capacity ✔
+14. Using Complex Attributes ✔
+15. The Single Responsibility Principle ✔
 16. Removing Magic Numbers
 17. Initialization Defaults
 18. Dealing with Broken Bikes
