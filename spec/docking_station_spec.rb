@@ -24,4 +24,8 @@ describe DockingStation do
         expect { subject.dock(Bike.new) }.to raise_error("Docking station already full")
     end
 
+    it 'should be able to take capacity input from user' do
+        expect(subject.capacity(50)).to eq subject.station_capacity
+    end
+
 end
