@@ -11,10 +11,10 @@ Their vision: a city where everyone has limitless access to joyful and eco-frien
 ## Tech/frameworks used ##
 Ruby, Agile, TDD & RSpec
 
-User Stories:
+User Story Representations (Just the first few user stories):
 https://docs.google.com/document/d/1DjxiCQXIzNiw8H9vrOsCk15Oo8_keYl1Ynqh4TDAlsw/edit?usp=sharing
 
-Domain Model:
+Domain Model (Just for the first few user stories):
 https://docs.google.com/presentation/d/1LTIimumH2wZqObxLHyIROP1HINjIxWA-GXPDruvKW5o/edit?usp=sharing
 
 ## Build status ##
@@ -33,7 +33,7 @@ https://docs.google.com/presentation/d/1LTIimumH2wZqObxLHyIROP1HINjIxWA-GXPDruvK
 13. Limiting Capacity ✔
 14. Using Complex Attributes ✔
 15. The Single Responsibility Principle ✔
-16. Removing Magic Numbers
+16. Removing Magic Numbers ✔
 17. Initialization Defaults
 18. Dealing with Broken Bikes
 19. Isolating Tests with Doubles
@@ -41,17 +41,8 @@ https://docs.google.com/presentation/d/1LTIimumH2wZqObxLHyIROP1HINjIxWA-GXPDruvK
 21. Men with Ven
 22. Modules as Mixins
 
-## Screenshots ##
-Coming soon.
+## How to use ##
 
-## Code Example ##
-Coming soon.
+Run irb -r './lib/docking_station.rb' to play with the basic program.
 
-## Installation ##
-Coming soon.
-
-## Tests ##
-Coming soon.
-
-## How to use? ##
-Coming soon.
+Run RSpec to see tests in action
